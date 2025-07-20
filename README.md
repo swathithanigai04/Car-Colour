@@ -54,7 +54,7 @@ tkintertable
   * Color Classification Accuracy: **78%**
   * Evaluated using **Confusion Matrix**, **Precision**, and **Recall**.
    
-* ##  **Model File**
+##  **Model File**
 
 The trained model file car_color_classifier.h5 is included in the repository.
 Since the file size exceeds GitHub limits, download it from **\[Google Drive link]** (https://drive.google.com/file/d/1GnLz31m5_tL1uXk2zcK5vyOj66iKv3dp/view?usp=sharing).
